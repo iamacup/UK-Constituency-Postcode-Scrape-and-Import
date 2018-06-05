@@ -1,0 +1,4429 @@
+
+THIS IS PART OF THE HTML SOURCE OF https://www.doogal.co.uk/ElectoralConstituencies.php WHICH WE USE TO DOWNLOAD ALL OF THE INDIVIDUAL POSTCODE DATA
+
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000049">Aberavon</a></td>
+    <td>2,151</td>
+    <td>1,710</td>
+    <td>66,126</td>
+    <td>28,562</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000058">Aberconwy</a></td>
+    <td>2,597</td>
+    <td>2,160</td>
+    <td>56,406</td>
+    <td>25,326</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000001">Aberdeen North</a></td>
+    <td>6,144</td>
+    <td>2,703</td>
+    <td>99,273</td>
+    <td>46,037</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000002">Aberdeen South</a></td>
+    <td>6,381</td>
+    <td>2,675</td>
+    <td>93,323</td>
+    <td>44,310</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000003">Airdrie and Shotts</a></td>
+    <td>2,323</td>
+    <td>2,013</td>
+    <td>85,801</td>
+    <td>36,479</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000530">Aldershot</a></td>
+    <td>3,702</td>
+    <td>2,536</td>
+    <td>103,938</td>
+    <td>40,200</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000531">Aldridge-Brownhills</a></td>
+    <td>1,994</td>
+    <td>1,626</td>
+    <td>76,985</td>
+    <td>32,233</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000532">Altrincham and Sale West</a></td>
+    <td>4,449</td>
+    <td>2,957</td>
+    <td>96,434</td>
+    <td>39,871</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000043">Alyn and Deeside</a></td>
+    <td>2,611</td>
+    <td>2,256</td>
+    <td>82,572</td>
+    <td>34,436</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000533">Amber Valley</a></td>
+    <td>3,139</td>
+    <td>1,917</td>
+    <td>87,952</td>
+    <td>37,863</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000004">Angus</a></td>
+    <td>3,565</td>
+    <td>3,079</td>
+    <td>86,092</td>
+    <td>39,086</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000057">Arfon</a></td>
+    <td>2,608</td>
+    <td>2,106</td>
+    <td>60,543</td>
+    <td>24,193</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000005">Argyll and Bute</a></td>
+    <td>4,115</td>
+    <td>3,408</td>
+    <td>87,912</td>
+    <td>40,013</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000534">Arundel and South Downs</a></td>
+    <td>4,978</td>
+    <td>3,481</td>
+    <td>97,260</td>
+    <td>41,527</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000535">Ashfield</a></td>
+    <td>2,811</td>
+    <td>2,282</td>
+    <td>101,909</td>
+    <td>43,408</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000536">Ashford</a></td>
+    <td>5,357</td>
+    <td>3,541</td>
+    <td>112,913</td>
+    <td>45,767</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000537">Ashton-under-Lyne</a></td>
+    <td>3,799</td>
+    <td>2,503</td>
+    <td>90,841</td>
+    <td>39,061</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000538">Aylesbury</a></td>
+    <td>5,130</td>
+    <td>3,116</td>
+    <td>107,947</td>
+    <td>43,009</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000006">Ayr, Carrick and Cumnock</a></td>
+    <td>3,720</td>
+    <td>3,038</td>
+    <td>93,107</td>
+    <td>41,923</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000539">Banbury</a></td>
+    <td>7,590</td>
+    <td>3,865</td>
+    <td>117,914</td>
+    <td>47,034</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000007">Banff and Buchan</a></td>
+    <td>9,319</td>
+    <td>3,741</td>
+    <td>91,153</td>
+    <td>38,792</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000540">Barking</a></td>
+    <td>2,682</td>
+    <td>1,878</td>
+    <td>122,539</td>
+    <td>45,253</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000541">Barnsley Central</a></td>
+    <td>3,288</td>
+    <td>2,491</td>
+    <td>85,745</td>
+    <td>37,912</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000542">Barnsley East</a></td>
+    <td>2,855</td>
+    <td>2,523</td>
+    <td>90,363</td>
+    <td>38,970</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000543">Barrow and Furness</a></td>
+    <td>3,500</td>
+    <td>2,923</td>
+    <td>88,823</td>
+    <td>40,162</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000544">Basildon and Billericay</a></td>
+    <td>3,425</td>
+    <td>2,248</td>
+    <td>89,675</td>
+    <td>37,399</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000545">Basingstoke</a></td>
+    <td>4,885</td>
+    <td>2,602</td>
+    <td>108,017</td>
+    <td>44,703</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000546">Bassetlaw</a></td>
+    <td>4,063</td>
+    <td>3,267</td>
+    <td>103,823</td>
+    <td>44,012</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000547">Bath</a></td>
+    <td>4,124</td>
+    <td>2,632</td>
+    <td>88,847</td>
+    <td>37,692</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000548">Batley and Spen</a></td>
+    <td>3,810</td>
+    <td>3,016</td>
+    <td>108,100</td>
+    <td>43,661</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000549">Battersea</a></td>
+    <td>4,698</td>
+    <td>2,860</td>
+    <td>106,560</td>
+    <td>47,982</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000550">Beaconsfield</a></td>
+    <td>5,138</td>
+    <td>3,488</td>
+    <td>99,207</td>
+    <td>40,319</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000551">Beckenham</a></td>
+    <td>3,104</td>
+    <td>1,999</td>
+    <td>86,930</td>
+    <td>36,673</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000552">Bedford</a></td>
+    <td>4,294</td>
+    <td>2,689</td>
+    <td>101,028</td>
+    <td>41,047</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000553">Bermondsey and Old Southwark</a></td>
+    <td>6,950</td>
+    <td>4,082</td>
+    <td>126,567</td>
+    <td>55,117</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000554">Berwick-upon-Tweed</a></td>
+    <td>4,299</td>
+    <td>3,721</td>
+    <td>75,668</td>
+    <td>33,483</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000008">Berwickshire, Roxburgh and Selkirk</a></td>
+    <td>4,405</td>
+    <td>3,840</td>
+    <td>94,563</td>
+    <td>43,956</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000555">Bethnal Green and Bow</a></td>
+    <td>5,240</td>
+    <td>2,772</td>
+    <td>125,292</td>
+    <td>48,551</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000556">Beverley and Holderness</a></td>
+    <td>3,590</td>
+    <td>2,918</td>
+    <td>99,757</td>
+    <td>42,953</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000557">Bexhill and Battle</a></td>
+    <td>4,873</td>
+    <td>3,565</td>
+    <td>100,819</td>
+    <td>44,619</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000558">Bexleyheath and Crayford</a></td>
+    <td>2,646</td>
+    <td>1,776</td>
+    <td>87,714</td>
+    <td>35,056</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000559">Birkenhead</a></td>
+    <td>6,067</td>
+    <td>2,396</td>
+    <td>88,913</td>
+    <td>40,063</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000560">Birmingham, Edgbaston</a></td>
+    <td>2,946</td>
+    <td>2,091</td>
+    <td>96,902</td>
+    <td>39,872</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000561">Birmingham, Erdington</a></td>
+    <td>2,714</td>
+    <td>1,968</td>
+    <td>97,748</td>
+    <td>40,988</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000562">Birmingham, Hall Green</a></td>
+    <td>2,823</td>
+    <td>1,908</td>
+    <td>115,436</td>
+    <td>38,953</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000563">Birmingham, Hodge Hill</a></td>
+    <td>2,178</td>
+    <td>1,738</td>
+    <td>121,571</td>
+    <td>39,444</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000564">Birmingham, Ladywood</a></td>
+    <td>8,515</td>
+    <td>4,045</td>
+    <td>126,527</td>
+    <td>47,720</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000565">Birmingham, Northfield</a></td>
+    <td>2,714</td>
+    <td>2,109</td>
+    <td>101,059</td>
+    <td>43,063</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000566">Birmingham, Perry Barr</a></td>
+    <td>2,797</td>
+    <td>1,760</td>
+    <td>107,705</td>
+    <td>38,085</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000567">Birmingham, Selly Oak</a></td>
+    <td>2,922</td>
+    <td>1,891</td>
+    <td>104,276</td>
+    <td>41,209</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000568">Birmingham, Yardley</a></td>
+    <td>2,536</td>
+    <td>1,908</td>
+    <td>106,702</td>
+    <td>41,481</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000569">Bishop Auckland</a></td>
+    <td>3,972</td>
+    <td>3,185</td>
+    <td>87,129</td>
+    <td>39,049</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000570">Blackburn</a></td>
+    <td>3,414</td>
+    <td>2,165</td>
+    <td>107,332</td>
+    <td>40,191</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000571">Blackley and Broughton</a></td>
+    <td>6,174</td>
+    <td>3,087</td>
+    <td>111,131</td>
+    <td>45,675</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000572">Blackpool North and Cleveleys</a></td>
+    <td>2,530</td>
+    <td>1,996</td>
+    <td>83,582</td>
+    <td>38,138</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000573">Blackpool South</a></td>
+    <td>3,215</td>
+    <td>2,109</td>
+    <td>81,074</td>
+    <td>36,460</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000072">Blaenau Gwent</a></td>
+    <td>4,009</td>
+    <td>1,841</td>
+    <td>69,787</td>
+    <td>30,406</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000574">Blaydon</a></td>
+    <td>3,483</td>
+    <td>2,714</td>
+    <td>88,203</td>
+    <td>38,738</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000575">Blyth Valley</a></td>
+    <td>3,007</td>
+    <td>2,201</td>
+    <td>82,174</td>
+    <td>36,049</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000576">Bognor Regis and Littlehampton</a></td>
+    <td>3,808</td>
+    <td>3,091</td>
+    <td>98,458</td>
+    <td>43,467</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000577">Bolsover</a></td>
+    <td>2,957</td>
+    <td>2,430</td>
+    <td>94,306</td>
+    <td>40,853</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000578">Bolton North East</a></td>
+    <td>3,773</td>
+    <td>2,549</td>
+    <td>95,235</td>
+    <td>41,163</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000579">Bolton South East</a></td>
+    <td>3,139</td>
+    <td>2,412</td>
+    <td>101,628</td>
+    <td>41,341</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000580">Bolton West</a></td>
+    <td>3,504</td>
+    <td>2,634</td>
+    <td>94,792</td>
+    <td>40,505</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000581">Bootle</a></td>
+    <td>3,606</td>
+    <td>2,513</td>
+    <td>98,571</td>
+    <td>42,610</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000582">Boston and Skegness</a></td>
+    <td>4,239</td>
+    <td>3,441</td>
+    <td>101,638</td>
+    <td>43,786</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000583">Bosworth</a></td>
+    <td>3,258</td>
+    <td>2,364</td>
+    <td>98,372</td>
+    <td>42,586</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000584">Bournemouth East</a></td>
+    <td>3,856</td>
+    <td>2,417</td>
+    <td>102,132</td>
+    <td>45,850</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000585">Bournemouth West</a></td>
+    <td>4,071</td>
+    <td>2,575</td>
+    <td>98,968</td>
+    <td>43,813</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000586">Bracknell</a></td>
+    <td>6,045</td>
+    <td>2,466</td>
+    <td>104,872</td>
+    <td>42,067</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000587">Bradford East</a></td>
+    <td>4,371</td>
+    <td>2,885</td>
+    <td>114,718</td>
+    <td>40,655</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000588">Bradford South</a></td>
+    <td>3,218</td>
+    <td>2,723</td>
+    <td>100,790</td>
+    <td>40,482</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000589">Bradford West</a></td>
+    <td>4,412</td>
+    <td>2,682</td>
+    <td>114,972</td>
+    <td>37,050</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000590">Braintree</a></td>
+    <td>4,799</td>
+    <td>2,928</td>
+    <td>97,870</td>
+    <td>40,485</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000068">Brecon and Radnorshire</a></td>
+    <td>3,435</td>
+    <td>3,000</td>
+    <td>69,252</td>
+    <td>30,811</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000591">Brent Central</a></td>
+    <td>4,263</td>
+    <td>2,512</td>
+    <td>137,290</td>
+    <td>50,072</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000592">Brent North</a></td>
+    <td>4,031</td>
+    <td>2,335</td>
+    <td>128,566</td>
+    <td>40,912</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000593">Brentford and Isleworth</a></td>
+    <td>5,665</td>
+    <td>2,900</td>
+    <td>128,559</td>
+    <td>51,082</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000594">Brentwood and Ongar</a></td>
+    <td>3,998</td>
+    <td>2,855</td>
+    <td>92,969</td>
+    <td>38,632</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000073">Bridgend</a></td>
+    <td>2,639</td>
+    <td>1,909</td>
+    <td>79,867</td>
+    <td>33,368</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000595">Bridgwater and West Somerset</a></td>
+    <td>4,966</td>
+    <td>4,166</td>
+    <td>106,437</td>
+    <td>45,971</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000596">Brigg and Goole</a></td>
+    <td>3,349</td>
+    <td>2,717</td>
+    <td>86,705</td>
+    <td>36,877</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000597">Brighton, Kemptown</a></td>
+    <td>3,264</td>
+    <td>1,833</td>
+    <td>91,588</td>
+    <td>40,129</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000598">Brighton, Pavilion</a></td>
+    <td>4,255</td>
+    <td>2,023</td>
+    <td>103,532</td>
+    <td>44,702</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000599">Bristol East</a></td>
+    <td>2,987</td>
+    <td>2,379</td>
+    <td>95,480</td>
+    <td>41,115</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000600">Bristol North West</a></td>
+    <td>3,290</td>
+    <td>2,648</td>
+    <td>100,836</td>
+    <td>41,590</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000601">Bristol South</a></td>
+    <td>3,131</td>
+    <td>2,635</td>
+    <td>107,298</td>
+    <td>46,285</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000602">Bristol West</a></td>
+    <td>7,707</td>
+    <td>3,946</td>
+    <td>124,682</td>
+    <td>53,780</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000603">Broadland</a></td>
+    <td>3,961</td>
+    <td>3,438</td>
+    <td>95,171</td>
+    <td>40,464</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000604">Bromley and Chislehurst</a></td>
+    <td>3,483</td>
+    <td>2,215</td>
+    <td>88,621</td>
+    <td>37,016</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000605">Bromsgrove</a></td>
+    <td>3,384</td>
+    <td>2,818</td>
+    <td>93,618</td>
+    <td>38,267</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000606">Broxbourne</a></td>
+    <td>3,911</td>
+    <td>2,604</td>
+    <td>98,713</td>
+    <td>39,723</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000607">Broxtowe</a></td>
+    <td>2,751</td>
+    <td>2,207</td>
+    <td>95,014</td>
+    <td>40,539</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000608">Buckingham</a></td>
+    <td>4,659</td>
+    <td>3,519</td>
+    <td>97,146</td>
+    <td>38,819</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000609">Burnley</a></td>
+    <td>3,393</td>
+    <td>2,357</td>
+    <td>87,000</td>
+    <td>37,528</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000610">Burton</a></td>
+    <td>3,292</td>
+    <td>2,482</td>
+    <td>102,711</td>
+    <td>42,692</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000611">Bury North</a></td>
+    <td>3,382</td>
+    <td>2,458</td>
+    <td>87,485</td>
+    <td>36,925</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000612">Bury South</a></td>
+    <td>5,080</td>
+    <td>2,507</td>
+    <td>97,560</td>
+    <td>41,183</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000613">Bury St Edmunds</a></td>
+    <td>4,604</td>
+    <td>3,634</td>
+    <td>113,677</td>
+    <td>47,928</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000076">Caerphilly</a></td>
+    <td>3,950</td>
+    <td>1,933</td>
+    <td>86,933</td>
+    <td>35,920</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000009">Caithness, Sutherland and Easter Ross</a></td>
+    <td>2,541</td>
+    <td>2,235</td>
+    <td>62,354</td>
+    <td>28,056</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000614">Calder Valley</a></td>
+    <td>4,888</td>
+    <td>4,006</td>
+    <td>103,173</td>
+    <td>45,905</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000615">Camberwell and Peckham</a></td>
+    <td>3,815</td>
+    <td>2,309</td>
+    <td>125,105</td>
+    <td>50,387</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000616">Camborne and Redruth</a></td>
+    <td>3,939</td>
+    <td>3,090</td>
+    <td>85,541</td>
+    <td>36,261</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000617">Cambridge</a></td>
+    <td>5,410</td>
+    <td>2,587</td>
+    <td>114,697</td>
+    <td>43,264</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000618">Cannock Chase</a></td>
+    <td>3,892</td>
+    <td>2,189</td>
+    <td>97,477</td>
+    <td>40,672</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000619">Canterbury</a></td>
+    <td>4,474</td>
+    <td>3,291</td>
+    <td>109,253</td>
+    <td>43,060</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000050">Cardiff Central</a></td>
+    <td>4,933</td>
+    <td>1,758</td>
+    <td>88,104</td>
+    <td>33,470</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000051">Cardiff North</a></td>
+    <td>4,375</td>
+    <td>1,905</td>
+    <td>88,085</td>
+    <td>35,851</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000080">Cardiff South and Penarth</a></td>
+    <td>6,784</td>
+    <td>2,801</td>
+    <td>107,387</td>
+    <td>46,875</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000079">Cardiff West</a></td>
+    <td>3,321</td>
+    <td>1,981</td>
+    <td>91,126</td>
+    <td>38,896</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000620">Carlisle</a></td>
+    <td>3,340</td>
+    <td>2,520</td>
+    <td>85,996</td>
+    <td>39,002</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000067">Carmarthen East and Dinefwr</a></td>
+    <td>3,750</td>
+    <td>3,210</td>
+    <td>70,977</td>
+    <td>30,485</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000066">Carmarthen West and South Pembrokeshire</a></td>
+    <td>3,606</td>
+    <td>3,101</td>
+    <td>77,380</td>
+    <td>33,322</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000621">Carshalton and Wallington</a></td>
+    <td>2,708</td>
+    <td>1,860</td>
+    <td>95,278</td>
+    <td>38,396</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000622">Castle Point</a></td>
+    <td>2,692</td>
+    <td>2,023</td>
+    <td>87,920</td>
+    <td>36,395</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000010">Central Ayrshire</a></td>
+    <td>3,068</td>
+    <td>2,513</td>
+    <td>87,674</td>
+    <td>39,386</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000623">Central Devon</a></td>
+    <td>4,780</td>
+    <td>4,153</td>
+    <td>88,988</td>
+    <td>37,962</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000624">Central Suffolk and North Ipswich</a></td>
+    <td>4,361</td>
+    <td>3,799</td>
+    <td>98,941</td>
+    <td>40,750</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000064">Ceredigion</a></td>
+    <td>3,688</td>
+    <td>3,066</td>
+    <td>75,913</td>
+    <td>31,559</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000625">Charnwood</a></td>
+    <td>2,996</td>
+    <td>2,186</td>
+    <td>94,584</td>
+    <td>38,968</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000626">Chatham and Aylesford</a></td>
+    <td>2,731</td>
+    <td>2,089</td>
+    <td>97,360</td>
+    <td>39,209</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000627">Cheadle</a></td>
+    <td>3,224</td>
+    <td>2,151</td>
+    <td>91,296</td>
+    <td>37,666</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000628">Chelmsford</a></td>
+    <td>4,036</td>
+    <td>2,356</td>
+    <td>105,461</td>
+    <td>44,200</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000629">Chelsea and Fulham</a></td>
+    <td>5,169</td>
+    <td>2,913</td>
+    <td>105,690</td>
+    <td>49,641</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000630">Cheltenham</a></td>
+    <td>5,313</td>
+    <td>3,513</td>
+    <td>104,930</td>
+    <td>46,161</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000631">Chesham and Amersham</a></td>
+    <td>4,292</td>
+    <td>3,031</td>
+    <td>92,863</td>
+    <td>36,986</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000632">Chesterfield</a></td>
+    <td>3,399</td>
+    <td>2,585</td>
+    <td>93,223</td>
+    <td>42,170</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000633">Chichester</a></td>
+    <td>6,432</td>
+    <td>4,248</td>
+    <td>104,376</td>
+    <td>45,805</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000634">Chingford and Woodford Green</a></td>
+    <td>2,841</td>
+    <td>1,598</td>
+    <td>88,040</td>
+    <td>35,361</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000635">Chippenham</a></td>
+    <td>4,060</td>
+    <td>3,053</td>
+    <td>96,074</td>
+    <td>40,305</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000636">Chipping Barnet</a></td>
+    <td>4,463</td>
+    <td>2,782</td>
+    <td>111,923</td>
+    <td>44,358</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000637">Chorley</a></td>
+    <td>3,503</td>
+    <td>2,584</td>
+    <td>94,918</td>
+    <td>40,538</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000638">Christchurch</a></td>
+    <td>3,311</td>
+    <td>2,469</td>
+    <td>83,583</td>
+    <td>37,635</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000639">Cities of London and Westminster</a></td>
+    <td>34,031</td>
+    <td>12,765</td>
+    <td>110,018</td>
+    <td>56,683</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000640">City of Chester</a></td>
+    <td>4,273</td>
+    <td>2,748</td>
+    <td>93,107</td>
+    <td>41,049</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000641">City of Durham</a></td>
+    <td>3,534</td>
+    <td>2,576</td>
+    <td>94,374</td>
+    <td>38,134</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000642">Clacton</a></td>
+    <td>3,347</td>
+    <td>2,688</td>
+    <td>85,355</td>
+    <td>39,355</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000643">Cleethorpes</a></td>
+    <td>3,459</td>
+    <td>2,818</td>
+    <td>93,599</td>
+    <td>40,658</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000062">Clwyd South</a></td>
+    <td>2,890</td>
+    <td>2,613</td>
+    <td>71,530</td>
+    <td>30,476</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000059">Clwyd West</a></td>
+    <td>3,083</td>
+    <td>2,604</td>
+    <td>73,905</td>
+    <td>32,198</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000011">Coatbridge, Chryston and Bellshill</a></td>
+    <td>2,836</td>
+    <td>2,387</td>
+    <td>94,977</td>
+    <td>40,552</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000644">Colchester</a></td>
+    <td>4,359</td>
+    <td>2,884</td>
+    <td>108,616</td>
+    <td>45,489</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000645">Colne Valley</a></td>
+    <td>4,533</td>
+    <td>2,886</td>
+    <td>108,973</td>
+    <td>46,315</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000646">Congleton</a></td>
+    <td>4,371</td>
+    <td>2,875</td>
+    <td>91,991</td>
+    <td>39,696</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000647">Copeland</a></td>
+    <td>3,551</td>
+    <td>3,056</td>
+    <td>80,860</td>
+    <td>34,985</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000648">Corby</a></td>
+    <td>3,652</td>
+    <td>2,998</td>
+    <td>110,090</td>
+    <td>45,059</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000649">Coventry North East</a></td>
+    <td>2,585</td>
+    <td>2,189</td>
+    <td>110,289</td>
+    <td>44,089</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000650">Coventry North West</a></td>
+    <td>2,019</td>
+    <td>1,821</td>
+    <td>101,322</td>
+    <td>42,962</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000651">Coventry South</a></td>
+    <td>4,385</td>
+    <td>2,237</td>
+    <td>107,273</td>
+    <td>41,688</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000652">Crawley</a></td>
+    <td>4,380</td>
+    <td>2,687</td>
+    <td>106,584</td>
+    <td>42,722</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000653">Crewe and Nantwich</a></td>
+    <td>4,190</td>
+    <td>2,762</td>
+    <td>107,330</td>
+    <td>45,374</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000654">Croydon Central</a></td>
+    <td>4,072</td>
+    <td>2,116</td>
+    <td>114,697</td>
+    <td>46,883</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000655">Croydon North</a></td>
+    <td>4,357</td>
+    <td>2,568</td>
+    <td>136,113</td>
+    <td>53,441</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000656">Croydon South</a></td>
+    <td>4,434</td>
+    <td>2,381</td>
+    <td>112,644</td>
+    <td>44,726</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000012">Cumbernauld, Kilsyth and Kirkintilloch East</a></td>
+    <td>2,744</td>
+    <td>1,930</td>
+    <td>86,866</td>
+    <td>37,103</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000070">Cynon Valley</a></td>
+    <td>1,864</td>
+    <td>1,613</td>
+    <td>68,899</td>
+    <td>29,642</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000657">Dagenham and Rainham</a></td>
+    <td>2,869</td>
+    <td>1,833</td>
+    <td>101,978</td>
+    <td>40,016</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000658">Darlington</a></td>
+    <td>3,506</td>
+    <td>2,538</td>
+    <td>91,432</td>
+    <td>40,748</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000659">Dartford</a></td>
+    <td>3,426</td>
+    <td>2,460</td>
+    <td>103,261</td>
+    <td>42,503</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000660">Daventry</a></td>
+    <td>4,094</td>
+    <td>2,908</td>
+    <td>93,927</td>
+    <td>38,335</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000042">Delyn</a></td>
+    <td>2,679</td>
+    <td>2,140</td>
+    <td>69,982</td>
+    <td>29,366</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000661">Denton and Reddish</a></td>
+    <td>2,885</td>
+    <td>2,142</td>
+    <td>85,628</td>
+    <td>37,884</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000662">Derby North</a></td>
+    <td>4,203</td>
+    <td>2,166</td>
+    <td>100,207</td>
+    <td>41,856</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000663">Derby South</a></td>
+    <td>5,986</td>
+    <td>2,366</td>
+    <td>109,175</td>
+    <td>43,525</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000664">Derbyshire Dales</a></td>
+    <td>3,704</td>
+    <td>2,517</td>
+    <td>78,716</td>
+    <td>34,004</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000665">Devizes</a></td>
+    <td>4,461</td>
+    <td>3,418</td>
+    <td>96,992</td>
+    <td>37,841</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000666">Dewsbury</a></td>
+    <td>3,819</td>
+    <td>2,915</td>
+    <td>109,789</td>
+    <td>42,913</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000667">Don Valley</a></td>
+    <td>3,151</td>
+    <td>2,651</td>
+    <td>98,336</td>
+    <td>40,516</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000668">Doncaster Central</a></td>
+    <td>4,136</td>
+    <td>2,719</td>
+    <td>104,952</td>
+    <td>44,491</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000669">Doncaster North</a></td>
+    <td>2,843</td>
+    <td>2,481</td>
+    <td>99,098</td>
+    <td>41,476</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000670">Dover</a></td>
+    <td>3,911</td>
+    <td>3,136</td>
+    <td>97,580</td>
+    <td>42,247</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000671">Dudley North</a></td>
+    <td>2,544</td>
+    <td>1,932</td>
+    <td>81,045</td>
+    <td>33,028</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000672">Dudley South</a></td>
+    <td>2,522</td>
+    <td>1,923</td>
+    <td>79,438</td>
+    <td>33,076</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000673">Dulwich and West Norwood</a></td>
+    <td>3,348</td>
+    <td>2,042</td>
+    <td>110,533</td>
+    <td>46,430</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000013">Dumfries and Galloway</a></td>
+    <td>5,052</td>
+    <td>4,456</td>
+    <td>97,057</td>
+    <td>44,019</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000014">Dumfriesshire, Clydesdale and Tweeddale</a></td>
+    <td>4,041</td>
+    <td>3,477</td>
+    <td>86,049</td>
+    <td>37,941</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000015">Dundee East</a></td>
+    <td>3,007</td>
+    <td>2,457</td>
+    <td>87,614</td>
+    <td>39,343</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000016">Dundee West</a></td>
+    <td>3,971</td>
+    <td>2,797</td>
+    <td>89,181</td>
+    <td>42,278</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000017">Dunfermline and West Fife</a></td>
+    <td>3,333</td>
+    <td>2,524</td>
+    <td>98,282</td>
+    <td>42,672</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000061">Dwyfor Meirionnydd</a></td>
+    <td>3,854</td>
+    <td>3,469</td>
+    <td>61,326</td>
+    <td>28,283</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000674">Ealing Central and Acton</a></td>
+    <td>4,689</td>
+    <td>2,687</td>
+    <td>119,448</td>
+    <td>48,959</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000675">Ealing North</a></td>
+    <td>3,786</td>
+    <td>2,319</td>
+    <td>121,178</td>
+    <td>43,719</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000676">Ealing, Southall</a></td>
+    <td>2,634</td>
+    <td>1,561</td>
+    <td>97,843</td>
+    <td>31,408</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000677">Easington</a></td>
+    <td>2,777</td>
+    <td>2,334</td>
+    <td>82,781</td>
+    <td>36,076</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000678">East Devon</a></td>
+    <td>4,713</td>
+    <td>3,894</td>
+    <td>93,917</td>
+    <td>41,616</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000018">East Dunbartonshire</a></td>
+    <td>3,242</td>
+    <td>2,580</td>
+    <td>82,193</td>
+    <td>33,787</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000679">East Ham</a></td>
+    <td>3,034</td>
+    <td>1,719</td>
+    <td>149,874</td>
+    <td>46,033</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000680">East Hampshire</a></td>
+    <td>4,736</td>
+    <td>3,499</td>
+    <td>95,360</td>
+    <td>38,914</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000019">East Kilbride, Strathaven and Lesmahagow</a></td>
+    <td>3,038</td>
+    <td>2,455</td>
+    <td>100,558</td>
+    <td>43,450</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000020">East Lothian</a></td>
+    <td>3,516</td>
+    <td>3,052</td>
+    <td>99,620</td>
+    <td>42,865</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000021">East Renfrewshire</a></td>
+    <td>3,089</td>
+    <td>2,453</td>
+    <td>90,471</td>
+    <td>37,191</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000681">East Surrey</a></td>
+    <td>4,245</td>
+    <td>2,920</td>
+    <td>105,020</td>
+    <td>42,375</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000682">East Worthing and Shoreham</a></td>
+    <td>3,813</td>
+    <td>2,481</td>
+    <td>95,963</td>
+    <td>41,830</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000683">East Yorkshire</a></td>
+    <td>6,233</td>
+    <td>3,453</td>
+    <td>100,404</td>
+    <td>43,956</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000684">Eastbourne</a></td>
+    <td>4,244</td>
+    <td>3,135</td>
+    <td>106,818</td>
+    <td>48,502</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000685">Eastleigh</a></td>
+    <td>6,134</td>
+    <td>2,704</td>
+    <td>103,800</td>
+    <td>43,294</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000686">Eddisbury</a></td>
+    <td>3,962</td>
+    <td>3,188</td>
+    <td>85,499</td>
+    <td>35,503</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000022">Edinburgh East</a></td>
+    <td>3,544</td>
+    <td>2,604</td>
+    <td>95,500</td>
+    <td>45,049</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000023">Edinburgh North and Leith</a></td>
+    <td>5,500</td>
+    <td>3,003</td>
+    <td>106,267</td>
+    <td>54,582</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000024">Edinburgh South</a></td>
+    <td>2,793</td>
+    <td>2,227</td>
+    <td>86,190</td>
+    <td>37,333</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000025">Edinburgh South West</a></td>
+    <td>3,332</td>
+    <td>2,605</td>
+    <td>99,100</td>
+    <td>46,232</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000026">Edinburgh West</a></td>
+    <td>3,532</td>
+    <td>2,766</td>
+    <td>89,371</td>
+    <td>39,770</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000687">Edmonton</a></td>
+    <td>2,808</td>
+    <td>1,955</td>
+    <td>112,029</td>
+    <td>41,490</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000688">Ellesmere Port and Neston</a></td>
+    <td>5,554</td>
+    <td>2,587</td>
+    <td>86,881</td>
+    <td>37,311</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000689">Elmet and Rothwell</a></td>
+    <td>4,044</td>
+    <td>2,963</td>
+    <td>99,663</td>
+    <td>42,336</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000690">Eltham</a></td>
+    <td>2,541</td>
+    <td>1,757</td>
+    <td>89,759</td>
+    <td>35,888</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000691">Enfield North</a></td>
+    <td>3,448</td>
+    <td>2,198</td>
+    <td>103,050</td>
+    <td>40,230</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000692">Enfield, Southgate</a></td>
+    <td>3,526</td>
+    <td>2,143</td>
+    <td>97,371</td>
+    <td>38,178</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000693">Epping Forest</a></td>
+    <td>3,486</td>
+    <td>2,465</td>
+    <td>95,075</td>
+    <td>39,736</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000694">Epsom and Ewell</a></td>
+    <td>3,750</td>
+    <td>2,635</td>
+    <td>104,028</td>
+    <td>41,378</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000695">Erewash</a></td>
+    <td>2,797</td>
+    <td>2,067</td>
+    <td>94,057</td>
+    <td>41,014</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000696">Erith and Thamesmead</a></td>
+    <td>2,454</td>
+    <td>1,818</td>
+    <td>110,432</td>
+    <td>41,712</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000697">Esher and Walton</a></td>
+    <td>4,859</td>
+    <td>3,010</td>
+    <td>109,070</td>
+    <td>43,688</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000698">Exeter</a></td>
+    <td>4,719</td>
+    <td>3,145</td>
+    <td>106,054</td>
+    <td>43,909</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000028">Falkirk</a></td>
+    <td>3,498</td>
+    <td>2,794</td>
+    <td>108,872</td>
+    <td>47,778</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000699">Fareham</a></td>
+    <td>4,687</td>
+    <td>2,871</td>
+    <td>97,516</td>
+    <td>40,553</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000700">Faversham and Mid Kent</a></td>
+    <td>3,926</td>
+    <td>3,315</td>
+    <td>92,841</td>
+    <td>37,832</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000701">Feltham and Heston</a></td>
+    <td>3,313</td>
+    <td>2,086</td>
+    <td>125,418</td>
+    <td>43,826</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000702">Filton and Bradley Stoke</a></td>
+    <td>4,556</td>
+    <td>2,296</td>
+    <td>92,711</td>
+    <td>38,068</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000703">Finchley and Golders Green</a></td>
+    <td>5,621</td>
+    <td>2,971</td>
+    <td>120,461</td>
+    <td>46,601</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000704">Folkestone and Hythe</a></td>
+    <td>4,936</td>
+    <td>3,791</td>
+    <td>113,028</td>
+    <td>49,402</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000705">Forest of Dean</a></td>
+    <td>4,160</td>
+    <td>3,417</td>
+    <td>86,160</td>
+    <td>35,865</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000706">Fylde</a></td>
+    <td>3,142</td>
+    <td>2,368</td>
+    <td>82,018</td>
+    <td>37,331</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000707">Gainsborough</a></td>
+    <td>3,974</td>
+    <td>3,134</td>
+    <td>91,675</td>
+    <td>39,488</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000708">Garston and Halewood</a></td>
+    <td>3,131</td>
+    <td>2,267</td>
+    <td>97,891</td>
+    <td>42,736</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000709">Gateshead</a></td>
+    <td>3,004</td>
+    <td>2,146</td>
+    <td>94,777</td>
+    <td>42,837</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000710">Gedling</a></td>
+    <td>2,769</td>
+    <td>2,093</td>
+    <td>92,568</td>
+    <td>40,290</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000711">Gillingham and Rainham</a></td>
+    <td>2,750</td>
+    <td>2,047</td>
+    <td>98,813</td>
+    <td>39,651</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000029">Glasgow Central</a></td>
+    <td>7,966</td>
+    <td>3,107</td>
+    <td>90,893</td>
+    <td>45,272</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000030">Glasgow East</a></td>
+    <td>3,150</td>
+    <td>2,311</td>
+    <td>87,294</td>
+    <td>40,389</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000031">Glasgow North</a></td>
+    <td>2,590</td>
+    <td>1,737</td>
+    <td>71,525</td>
+    <td>35,400</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000032">Glasgow North East</a></td>
+    <td>3,085</td>
+    <td>2,039</td>
+    <td>85,861</td>
+    <td>41,977</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000033">Glasgow North West</a></td>
+    <td>2,978</td>
+    <td>2,097</td>
+    <td>85,861</td>
+    <td>42,336</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000034">Glasgow South</a></td>
+    <td>2,679</td>
+    <td>2,028</td>
+    <td>87,979</td>
+    <td>42,121</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000035">Glasgow South West</a></td>
+    <td>2,802</td>
+    <td>2,054</td>
+    <td>84,003</td>
+    <td>38,244</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000036">Glenrothes</a></td>
+    <td>2,692</td>
+    <td>2,317</td>
+    <td>89,310</td>
+    <td>39,577</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000712">Gloucester</a></td>
+    <td>4,995</td>
+    <td>2,827</td>
+    <td>112,121</td>
+    <td>46,440</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000037">Gordon</a></td>
+    <td>7,351</td>
+    <td>3,425</td>
+    <td>100,241</td>
+    <td>41,792</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000713">Gosport</a></td>
+    <td>2,767</td>
+    <td>2,240</td>
+    <td>96,699</td>
+    <td>41,461</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000046">Gower</a></td>
+    <td>3,121</td>
+    <td>2,032</td>
+    <td>77,823</td>
+    <td>33,550</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000714">Grantham and Stamford</a></td>
+    <td>4,028</td>
+    <td>3,128</td>
+    <td>104,470</td>
+    <td>44,885</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000715">Gravesham</a></td>
+    <td>2,932</td>
+    <td>2,182</td>
+    <td>101,704</td>
+    <td>40,426</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000716">Great Grimsby</a></td>
+    <td>3,367</td>
+    <td>2,332</td>
+    <td>88,243</td>
+    <td>38,612</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000717">Great Yarmouth</a></td>
+    <td>3,210</td>
+    <td>2,638</td>
+    <td>97,289</td>
+    <td>42,083</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000718">Greenwich and Woolwich</a></td>
+    <td>3,819</td>
+    <td>2,423</td>
+    <td>112,443</td>
+    <td>46,275</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000719">Guildford</a></td>
+    <td>5,626</td>
+    <td>3,177</td>
+    <td>105,809</td>
+    <td>41,415</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000720">Hackney North and Stoke Newington</a></td>
+    <td>3,280</td>
+    <td>2,066</td>
+    <td>128,073</td>
+    <td>50,972</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000721">Hackney South and Shoreditch</a></td>
+    <td>3,467</td>
+    <td>2,404</td>
+    <td>118,060</td>
+    <td>50,668</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000722">Halesowen and Rowley Regis</a></td>
+    <td>2,812</td>
+    <td>2,046</td>
+    <td>87,682</td>
+    <td>36,717</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000723">Halifax</a></td>
+    <td>4,490</td>
+    <td>3,229</td>
+    <td>100,676</td>
+    <td>42,728</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000724">Haltemprice and Howden</a></td>
+    <td>3,071</td>
+    <td>2,414</td>
+    <td>88,551</td>
+    <td>36,920</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000725">Halton</a></td>
+    <td>3,212</td>
+    <td>2,397</td>
+    <td>95,021</td>
+    <td>40,763</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000726">Hammersmith</a></td>
+    <td>4,535</td>
+    <td>2,232</td>
+    <td>118,347</td>
+    <td>52,371</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000727">Hampstead and Kilburn</a></td>
+    <td>5,725</td>
+    <td>3,040</td>
+    <td>130,126</td>
+    <td>58,393</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000728">Harborough</a></td>
+    <td>3,872</td>
+    <td>2,359</td>
+    <td>100,708</td>
+    <td>39,749</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000729">Harlow</a></td>
+    <td>3,102</td>
+    <td>2,046</td>
+    <td>92,058</td>
+    <td>38,840</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000730">Harrogate and Knaresborough</a></td>
+    <td>4,421</td>
+    <td>2,763</td>
+    <td>101,271</td>
+    <td>43,973</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000731">Harrow East</a></td>
+    <td>2,970</td>
+    <td>2,026</td>
+    <td>103,672</td>
+    <td>35,094</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000732">Harrow West</a></td>
+    <td>4,063</td>
+    <td>2,215</td>
+    <td>104,153</td>
+    <td>37,127</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000733">Hartlepool</a></td>
+    <td>3,362</td>
+    <td>2,610</td>
+    <td>92,014</td>
+    <td>40,428</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000734">Harwich and North Essex</a></td>
+    <td>3,846</td>
+    <td>3,126</td>
+    <td>91,200</td>
+    <td>38,139</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000735">Hastings and Rye</a></td>
+    <td>3,917</td>
+    <td>2,630</td>
+    <td>107,977</td>
+    <td>49,288</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000736">Havant</a></td>
+    <td>3,023</td>
+    <td>2,329</td>
+    <td>91,908</td>
+    <td>38,989</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000737">Hayes and Harlington</a></td>
+    <td>4,148</td>
+    <td>2,273</td>
+    <td>110,255</td>
+    <td>37,463</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000738">Hazel Grove</a></td>
+    <td>2,638</td>
+    <td>1,872</td>
+    <td>78,760</td>
+    <td>33,903</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000739">Hemel Hempstead</a></td>
+    <td>3,906</td>
+    <td>2,529</td>
+    <td>99,080</td>
+    <td>41,134</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000740">Hemsworth</a></td>
+    <td>3,002</td>
+    <td>2,644</td>
+    <td>93,680</td>
+    <td>40,087</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000741">Hendon</a></td>
+    <td>5,607</td>
+    <td>3,140</td>
+    <td>123,805</td>
+    <td>44,911</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000742">Henley</a></td>
+    <td>6,992</td>
+    <td>4,050</td>
+    <td>97,794</td>
+    <td>39,241</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000743">Hereford and South Herefordshire</a></td>
+    <td>4,199</td>
+    <td>3,132</td>
+    <td>97,509</td>
+    <td>41,733</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000744">Hertford and Stortford</a></td>
+    <td>4,827</td>
+    <td>3,083</td>
+    <td>106,815</td>
+    <td>44,226</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000745">Hertsmere</a></td>
+    <td>5,521</td>
+    <td>3,037</td>
+    <td>100,068</td>
+    <td>39,774</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000746">Hexham</a></td>
+    <td>5,058</td>
+    <td>4,083</td>
+    <td>76,242</td>
+    <td>32,616</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000747">Heywood and Middleton</a></td>
+    <td>3,718</td>
+    <td>2,720</td>
+    <td>104,045</td>
+    <td>44,970</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000748">High Peak</a></td>
+    <td>5,086</td>
+    <td>2,818</td>
+    <td>90,864</td>
+    <td>38,937</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000749">Hitchin and Harpenden</a></td>
+    <td>4,296</td>
+    <td>3,066</td>
+    <td>99,615</td>
+    <td>40,612</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000750">Holborn and St Pancras</a></td>
+    <td>12,201</td>
+    <td>6,449</td>
+    <td>135,647</td>
+    <td>58,467</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000751">Hornchurch and Upminster</a></td>
+    <td>3,240</td>
+    <td>2,203</td>
+    <td>102,899</td>
+    <td>42,291</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000752">Hornsey and Wood Green</a></td>
+    <td>4,297</td>
+    <td>2,318</td>
+    <td>125,883</td>
+    <td>53,130</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000753">Horsham</a></td>
+    <td>4,666</td>
+    <td>3,102</td>
+    <td>103,719</td>
+    <td>42,320</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000754">Houghton and Sunderland South</a></td>
+    <td>2,629</td>
+    <td>2,123</td>
+    <td>86,841</td>
+    <td>38,131</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000755">Hove</a></td>
+    <td>3,897</td>
+    <td>1,918</td>
+    <td>99,820</td>
+    <td>46,130</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000756">Huddersfield</a></td>
+    <td>3,952</td>
+    <td>2,553</td>
+    <td>95,636</td>
+    <td>40,661</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000757">Huntingdon</a></td>
+    <td>7,334</td>
+    <td>3,362</td>
+    <td>112,705</td>
+    <td>46,347</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000758">Hyndburn</a></td>
+    <td>2,980</td>
+    <td>2,312</td>
+    <td>92,423</td>
+    <td>39,268</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000759">Ilford North</a></td>
+    <td>2,267</td>
+    <td>1,806</td>
+    <td>102,600</td>
+    <td>37,877</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000760">Ilford South</a></td>
+    <td>3,682</td>
+    <td>1,860</td>
+    <td>130,991</td>
+    <td>41,960</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000038">Inverclyde</a></td>
+    <td>2,981</td>
+    <td>2,303</td>
+    <td>81,442</td>
+    <td>37,418</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000039">Inverness, Nairn, Badenoch and Strathspey</a></td>
+    <td>4,401</td>
+    <td>2,974</td>
+    <td>101,908</td>
+    <td>44,625</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000761">Ipswich</a></td>
+    <td>4,351</td>
+    <td>2,911</td>
+    <td>109,034</td>
+    <td>47,279</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000762">Isle of Wight</a></td>
+    <td>6,236</td>
+    <td>5,081</td>
+    <td>138,265</td>
+    <td>61,085</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000763">Islington North</a></td>
+    <td>3,447</td>
+    <td>2,007</td>
+    <td>103,403</td>
+    <td>46,459</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000764">Islington South and Finsbury</a></td>
+    <td>9,465</td>
+    <td>5,024</td>
+    <td>102,678</td>
+    <td>47,078</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000077">Islwyn</a></td>
+    <td>4,108</td>
+    <td>1,927</td>
+    <td>75,440</td>
+    <td>31,541</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000765">Jarrow</a></td>
+    <td>2,459</td>
+    <td>2,015</td>
+    <td>83,133</td>
+    <td>36,874</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000766">Keighley</a></td>
+    <td>4,546</td>
+    <td>3,419</td>
+    <td>97,178</td>
+    <td>39,802</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000767">Kenilworth and Southam</a></td>
+    <td>3,755</td>
+    <td>2,656</td>
+    <td>80,307</td>
+    <td>34,155</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000768">Kensington</a></td>
+    <td>5,799</td>
+    <td>3,086</td>
+    <td>117,212</td>
+    <td>57,170</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000769">Kettering</a></td>
+    <td>3,161</td>
+    <td>2,417</td>
+    <td>93,483</td>
+    <td>39,704</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000040">Kilmarnock and Loudoun</a></td>
+    <td>3,817</td>
+    <td>3,148</td>
+    <td>96,809</td>
+    <td>42,587</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000770">Kingston and Surbiton</a></td>
+    <td>4,833</td>
+    <td>2,726</td>
+    <td>118,082</td>
+    <td>47,547</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000771">Kingston upon Hull East</a></td>
+    <td>3,280</td>
+    <td>2,140</td>
+    <td>91,937</td>
+    <td>40,028</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000772">Kingston upon Hull North</a></td>
+    <td>2,256</td>
+    <td>1,794</td>
+    <td>94,751</td>
+    <td>39,411</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000773">Kingston upon Hull West and Hessle</a></td>
+    <td>3,777</td>
+    <td>2,277</td>
+    <td>84,657</td>
+    <td>39,442</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000774">Kingswood</a></td>
+    <td>3,499</td>
+    <td>2,006</td>
+    <td>87,025</td>
+    <td>36,055</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000041">Kirkcaldy and Cowdenbeath</a></td>
+    <td>3,087</td>
+    <td>2,376</td>
+    <td>97,015</td>
+    <td>44,283</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000775">Knowsley</a></td>
+    <td>3,285</td>
+    <td>2,578</td>
+    <td>103,986</td>
+    <td>43,823</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000042">Lanark and Hamilton East</a></td>
+    <td>3,742</td>
+    <td>2,940</td>
+    <td>97,369</td>
+    <td>43,783</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000776">Lancaster and Fleetwood</a></td>
+    <td>3,334</td>
+    <td>2,511</td>
+    <td>86,630</td>
+    <td>34,265</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000777">Leeds Central</a></td>
+    <td>7,231</td>
+    <td>3,958</td>
+    <td>132,589</td>
+    <td>57,177</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000778">Leeds East</a></td>
+    <td>3,093</td>
+    <td>2,187</td>
+    <td>94,342</td>
+    <td>39,326</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000779">Leeds North East</a></td>
+    <td>3,246</td>
+    <td>2,179</td>
+    <td>92,130</td>
+    <td>39,303</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000780">Leeds North West</a></td>
+    <td>2,871</td>
+    <td>2,073</td>
+    <td>83,995</td>
+    <td>33,529</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000781">Leeds West</a></td>
+    <td>3,236</td>
+    <td>2,399</td>
+    <td>93,002</td>
+    <td>41,234</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000782">Leicester East</a></td>
+    <td>2,585</td>
+    <td>1,785</td>
+    <td>108,558</td>
+    <td>38,151</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000783">Leicester South</a></td>
+    <td>4,596</td>
+    <td>2,313</td>
+    <td>119,183</td>
+    <td>43,545</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000784">Leicester West</a></td>
+    <td>2,208</td>
+    <td>1,856</td>
+    <td>102,049</td>
+    <td>41,425</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000785">Leigh</a></td>
+    <td>3,298</td>
+    <td>2,638</td>
+    <td>102,847</td>
+    <td>44,664</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000786">Lewes</a></td>
+    <td>4,378</td>
+    <td>3,337</td>
+    <td>88,149</td>
+    <td>38,621</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000787">Lewisham East</a></td>
+    <td>2,846</td>
+    <td>1,755</td>
+    <td>102,256</td>
+    <td>42,497</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000788">Lewisham West and Penge</a></td>
+    <td>3,210</td>
+    <td>2,149</td>
+    <td>105,943</td>
+    <td>46,764</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000789">Lewisham, Deptford</a></td>
+    <td>3,454</td>
+    <td>2,025</td>
+    <td>112,851</td>
+    <td>47,527</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000790">Leyton and Wanstead</a></td>
+    <td>2,547</td>
+    <td>1,579</td>
+    <td>104,310</td>
+    <td>39,244</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000791">Lichfield</a></td>
+    <td>3,590</td>
+    <td>2,616</td>
+    <td>92,974</td>
+    <td>38,622</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000792">Lincoln</a></td>
+    <td>4,142</td>
+    <td>2,819</td>
+    <td>106,184</td>
+    <td>45,027</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000043">Linlithgow and East Falkirk</a></td>
+    <td>3,452</td>
+    <td>2,943</td>
+    <td>112,148</td>
+    <td>48,956</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000793">Liverpool, Riverside</a></td>
+    <td>7,456</td>
+    <td>3,447</td>
+    <td>114,646</td>
+    <td>52,295</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000794">Liverpool, Walton</a></td>
+    <td>2,652</td>
+    <td>1,890</td>
+    <td>92,262</td>
+    <td>41,085</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000795">Liverpool, Wavertree</a></td>
+    <td>2,430</td>
+    <td>1,772</td>
+    <td>91,631</td>
+    <td>40,216</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000796">Liverpool, West Derby</a></td>
+    <td>2,166</td>
+    <td>1,680</td>
+    <td>90,102</td>
+    <td>38,560</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000044">Livingston</a></td>
+    <td>3,091</td>
+    <td>2,412</td>
+    <td>109,731</td>
+    <td>45,246</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000045">Llanelli</a></td>
+    <td>2,660</td>
+    <td>2,163</td>
+    <td>81,284</td>
+    <td>34,978</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000797">Loughborough</a></td>
+    <td>3,148</td>
+    <td>2,103</td>
+    <td>99,163</td>
+    <td>38,938</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000798">Louth and Horncastle</a></td>
+    <td>4,421</td>
+    <td>3,613</td>
+    <td>96,931</td>
+    <td>43,289</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000799">Ludlow</a></td>
+    <td>4,461</td>
+    <td>3,762</td>
+    <td>84,929</td>
+    <td>37,047</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000800">Luton North</a></td>
+    <td>1,951</td>
+    <td>1,384</td>
+    <td>99,059</td>
+    <td>36,126</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000801">Luton South</a></td>
+    <td>3,277</td>
+    <td>1,959</td>
+    <td>110,207</td>
+    <td>40,783</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000802">Macclesfield</a></td>
+    <td>4,037</td>
+    <td>2,921</td>
+    <td>93,273</td>
+    <td>40,936</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000803">Maidenhead</a></td>
+    <td>4,729</td>
+    <td>3,165</td>
+    <td>101,907</td>
+    <td>40,823</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000804">Maidstone and The Weald</a></td>
+    <td>4,644</td>
+    <td>3,179</td>
+    <td>100,011</td>
+    <td>41,130</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000805">Makerfield</a></td>
+    <td>2,352</td>
+    <td>2,074</td>
+    <td>98,387</td>
+    <td>41,023</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000806">Maldon</a></td>
+    <td>3,653</td>
+    <td>2,470</td>
+    <td>88,607</td>
+    <td>36,673</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000807">Manchester Central</a></td>
+    <td>10,147</td>
+    <td>4,869</td>
+    <td>134,597</td>
+    <td>56,608</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000808">Manchester, Gorton</a></td>
+    <td>2,997</td>
+    <td>2,326</td>
+    <td>111,001</td>
+    <td>40,257</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000809">Manchester, Withington</a></td>
+    <td>4,794</td>
+    <td>2,354</td>
+    <td>99,027</td>
+    <td>40,792</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000810">Mansfield</a></td>
+    <td>3,277</td>
+    <td>2,595</td>
+    <td>104,386</td>
+    <td>44,898</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000811">Meon Valley</a></td>
+    <td>4,043</td>
+    <td>2,809</td>
+    <td>89,690</td>
+    <td>37,092</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000812">Meriden</a></td>
+    <td>3,170</td>
+    <td>2,508</td>
+    <td>107,971</td>
+    <td>45,121</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000071">Merthyr Tydfil and Rhymney</a></td>
+    <td>2,914</td>
+    <td>2,083</td>
+    <td>75,199</td>
+    <td>31,265</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000813">Mid Bedfordshire</a></td>
+    <td>3,609</td>
+    <td>3,009</td>
+    <td>100,068</td>
+    <td>40,123</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000814">Mid Derbyshire</a></td>
+    <td>3,682</td>
+    <td>1,873</td>
+    <td>84,217</td>
+    <td>36,058</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000815">Mid Dorset and North Poole</a></td>
+    <td>3,015</td>
+    <td>2,219</td>
+    <td>80,885</td>
+    <td>33,937</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000816">Mid Norfolk</a></td>
+    <td>3,985</td>
+    <td>3,486</td>
+    <td>99,848</td>
+    <td>41,813</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000817">Mid Sussex</a></td>
+    <td>4,866</td>
+    <td>3,254</td>
+    <td>105,795</td>
+    <td>43,719</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000818">Mid Worcestershire</a></td>
+    <td>4,238</td>
+    <td>2,838</td>
+    <td>94,280</td>
+    <td>39,573</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000819">Middlesbrough</a></td>
+    <td>4,141</td>
+    <td>2,820</td>
+    <td>93,918</td>
+    <td>38,565</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000820">Middlesbrough South and East Cleveland</a></td>
+    <td>3,005</td>
+    <td>2,411</td>
+    <td>92,799</td>
+    <td>39,966</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000045">Midlothian</a></td>
+    <td>3,319</td>
+    <td>2,908</td>
+    <td>83,071</td>
+    <td>34,938</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000821">Milton Keynes North</a></td>
+    <td>5,008</td>
+    <td>3,548</td>
+    <td>121,804</td>
+    <td>48,574</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000822">Milton Keynes South</a></td>
+    <td>6,578</td>
+    <td>3,777</td>
+    <td>127,010</td>
+    <td>50,010</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000823">Mitcham and Morden</a></td>
+    <td>2,330</td>
+    <td>1,609</td>
+    <td>103,358</td>
+    <td>39,017</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000824">Mole Valley</a></td>
+    <td>5,215</td>
+    <td>3,708</td>
+    <td>94,933</td>
+    <td>39,552</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000054">Monmouth</a></td>
+    <td>5,760</td>
+    <td>3,125</td>
+    <td>83,722</td>
+    <td>35,598</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000063">Montgomeryshire</a></td>
+    <td>3,478</td>
+    <td>3,065</td>
+    <td>63,722</td>
+    <td>27,533</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000046">Moray</a></td>
+    <td>6,584</td>
+    <td>3,276</td>
+    <td>93,094</td>
+    <td>39,977</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000825">Morecambe and Lunesdale</a></td>
+    <td>3,270</td>
+    <td>2,682</td>
+    <td>87,661</td>
+    <td>39,028</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000826">Morley and Outwood</a></td>
+    <td>3,295</td>
+    <td>2,669</td>
+    <td>96,403</td>
+    <td>41,736</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000047">Motherwell and Wishaw</a></td>
+    <td>2,699</td>
+    <td>2,165</td>
+    <td>92,037</td>
+    <td>41,249</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000027">Na h-Eileanan an Iar</a></td>
+    <td>1,992</td>
+    <td>964</td>
+    <td>27,663</td>
+    <td>12,565</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000069">Neath</a></td>
+    <td>2,387</td>
+    <td>1,954</td>
+    <td>73,687</td>
+    <td>31,831</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000827">New Forest East</a></td>
+    <td>5,689</td>
+    <td>2,545</td>
+    <td>92,369</td>
+    <td>38,901</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000828">New Forest West</a></td>
+    <td>4,884</td>
+    <td>2,967</td>
+    <td>84,084</td>
+    <td>37,930</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000829">Newark</a></td>
+    <td>3,770</td>
+    <td>3,175</td>
+    <td>98,883</td>
+    <td>41,668</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000830">Newbury</a></td>
+    <td>7,915</td>
+    <td>3,889</td>
+    <td>107,492</td>
+    <td>43,871</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000831">Newcastle upon Tyne Central</a></td>
+    <td>4,789</td>
+    <td>2,562</td>
+    <td>93,679</td>
+    <td>38,192</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000832">Newcastle upon Tyne East</a></td>
+    <td>2,732</td>
+    <td>1,923</td>
+    <td>95,645</td>
+    <td>39,581</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000833">Newcastle upon Tyne North</a></td>
+    <td>2,507</td>
+    <td>2,151</td>
+    <td>90,901</td>
+    <td>39,405</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000834">Newcastle-under-Lyme</a></td>
+    <td>2,829</td>
+    <td>2,173</td>
+    <td>89,015</td>
+    <td>37,799</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000055">Newport East</a></td>
+    <td>4,880</td>
+    <td>1,762</td>
+    <td>77,896</td>
+    <td>31,929</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000056">Newport West</a></td>
+    <td>6,685</td>
+    <td>2,245</td>
+    <td>85,380</td>
+    <td>36,321</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000835">Newton Abbot</a></td>
+    <td>3,847</td>
+    <td>2,895</td>
+    <td>85,682</td>
+    <td>37,378</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000836">Normanton, Pontefract and Castleford</a></td>
+    <td>3,649</td>
+    <td>2,967</td>
+    <td>107,182</td>
+    <td>46,606</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000048">North Ayrshire and Arran</a></td>
+    <td>3,490</td>
+    <td>2,966</td>
+    <td>95,509</td>
+    <td>43,557</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000837">North Cornwall</a></td>
+    <td>4,384</td>
+    <td>3,710</td>
+    <td>87,579</td>
+    <td>37,460</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000838">North Devon</a></td>
+    <td>4,488</td>
+    <td>3,669</td>
+    <td>93,647</td>
+    <td>39,994</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000839">North Dorset</a></td>
+    <td>4,411</td>
+    <td>3,420</td>
+    <td>95,749</td>
+    <td>39,688</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000840">North Durham</a></td>
+    <td>3,048</td>
+    <td>2,450</td>
+    <td>86,873</td>
+    <td>38,674</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000841">North East Bedfordshire</a></td>
+    <td>3,801</td>
+    <td>3,009</td>
+    <td>102,688</td>
+    <td>42,172</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000842">North East Cambridgeshire</a></td>
+    <td>4,032</td>
+    <td>3,287</td>
+    <td>112,469</td>
+    <td>47,656</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000843">North East Derbyshire</a></td>
+    <td>3,746</td>
+    <td>2,283</td>
+    <td>91,196</td>
+    <td>39,644</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000049">North East Fife</a></td>
+    <td>3,494</td>
+    <td>2,855</td>
+    <td>80,532</td>
+    <td>34,392</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000844">North East Hampshire</a></td>
+    <td>6,013</td>
+    <td>3,210</td>
+    <td>96,033</td>
+    <td>37,849</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000845">North East Hertfordshire</a></td>
+    <td>4,454</td>
+    <td>3,369</td>
+    <td>95,227</td>
+    <td>39,362</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000846">North East Somerset</a></td>
+    <td>5,446</td>
+    <td>3,184</td>
+    <td>87,128</td>
+    <td>35,814</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000847">North Herefordshire</a></td>
+    <td>3,931</td>
+    <td>3,484</td>
+    <td>85,973</td>
+    <td>36,579</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000848">North Norfolk</a></td>
+    <td>4,086</td>
+    <td>3,606</td>
+    <td>84,666</td>
+    <td>38,493</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000849">North Shropshire</a></td>
+    <td>4,928</td>
+    <td>4,184</td>
+    <td>104,421</td>
+    <td>43,038</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000850">North Somerset</a></td>
+    <td>5,673</td>
+    <td>3,091</td>
+    <td>98,317</td>
+    <td>42,054</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000851">North Swindon</a></td>
+    <td>3,661</td>
+    <td>2,365</td>
+    <td>107,339</td>
+    <td>45,214</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000852">North Thanet</a></td>
+    <td>3,221</td>
+    <td>2,626</td>
+    <td>93,556</td>
+    <td>40,738</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000853">North Tyneside</a></td>
+    <td>3,524</td>
+    <td>2,435</td>
+    <td>102,150</td>
+    <td>47,223</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000854">North Warwickshire</a></td>
+    <td>2,970</td>
+    <td>2,404</td>
+    <td>89,874</td>
+    <td>37,583</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000855">North West Cambridgeshire</a></td>
+    <td>5,208</td>
+    <td>3,144</td>
+    <td>125,043</td>
+    <td>51,181</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000856">North West Durham</a></td>
+    <td>3,979</td>
+    <td>3,428</td>
+    <td>92,150</td>
+    <td>41,146</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000857">North West Hampshire</a></td>
+    <td>5,405</td>
+    <td>3,448</td>
+    <td>101,016</td>
+    <td>41,485</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000858">North West Leicestershire</a></td>
+    <td>4,571</td>
+    <td>2,459</td>
+    <td>93,455</td>
+    <td>39,122</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000859">North West Norfolk</a></td>
+    <td>3,985</td>
+    <td>3,226</td>
+    <td>95,092</td>
+    <td>41,310</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000860">North Wiltshire</a></td>
+    <td>4,516</td>
+    <td>3,439</td>
+    <td>88,764</td>
+    <td>35,762</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000861">Northampton North</a></td>
+    <td>2,212</td>
+    <td>1,456</td>
+    <td>86,189</td>
+    <td>35,553</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000862">Northampton South</a></td>
+    <td>4,748</td>
+    <td>2,338</td>
+    <td>93,595</td>
+    <td>40,476</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000863">Norwich North</a></td>
+    <td>3,424</td>
+    <td>2,309</td>
+    <td>87,418</td>
+    <td>38,945</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000864">Norwich South</a></td>
+    <td>3,157</td>
+    <td>2,543</td>
+    <td>96,632</td>
+    <td>44,153</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000865">Nottingham East</a></td>
+    <td>3,394</td>
+    <td>2,212</td>
+    <td>99,187</td>
+    <td>42,034</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000866">Nottingham North</a></td>
+    <td>2,741</td>
+    <td>1,926</td>
+    <td>97,299</td>
+    <td>41,628</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000867">Nottingham South</a></td>
+    <td>4,017</td>
+    <td>2,510</td>
+    <td>109,120</td>
+    <td>42,438</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000868">Nuneaton</a></td>
+    <td>2,473</td>
+    <td>1,907</td>
+    <td>91,121</td>
+    <td>38,108</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000050">Ochil and South Perthshire</a></td>
+    <td>4,112</td>
+    <td>3,227</td>
+    <td>100,152</td>
+    <td>43,296</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000074">Ogmore</a></td>
+    <td>2,057</td>
+    <td>1,680</td>
+    <td>74,719</td>
+    <td>31,492</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000869">Old Bexley and Sidcup</a></td>
+    <td>2,393</td>
+    <td>1,631</td>
+    <td>86,147</td>
+    <td>34,687</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000870">Oldham East and Saddleworth</a></td>
+    <td>3,832</td>
+    <td>2,808</td>
+    <td>101,276</td>
+    <td>41,118</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000871">Oldham West and Royton</a></td>
+    <td>3,259</td>
+    <td>2,477</td>
+    <td>102,849</td>
+    <td>39,553</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000051">Orkney and Shetland</a></td>
+    <td>1,569</td>
+    <td>1,369</td>
+    <td>44,364</td>
+    <td>19,613</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000872">Orpington</a></td>
+    <td>3,196</td>
+    <td>2,118</td>
+    <td>88,651</td>
+    <td>36,461</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000873">Oxford East</a></td>
+    <td>5,371</td>
+    <td>2,928</td>
+    <td>120,776</td>
+    <td>43,359</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000874">Oxford West and Abingdon</a></td>
+    <td>4,099</td>
+    <td>2,795</td>
+    <td>105,908</td>
+    <td>42,851</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000052">Paisley and Renfrewshire North</a></td>
+    <td>2,972</td>
+    <td>2,233</td>
+    <td>88,465</td>
+    <td>39,342</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000053">Paisley and Renfrewshire South</a></td>
+    <td>3,155</td>
+    <td>2,363</td>
+    <td>86,424</td>
+    <td>41,552</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000875">Pendle</a></td>
+    <td>4,187</td>
+    <td>2,871</td>
+    <td>89,472</td>
+    <td>37,355</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000876">Penistone and Stocksbridge</a></td>
+    <td>3,898</td>
+    <td>2,215</td>
+    <td>87,436</td>
+    <td>37,941</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000877">Penrith and The Border</a></td>
+    <td>4,843</td>
+    <td>4,106</td>
+    <td>81,846</td>
+    <td>35,671</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000054">Perth and North Perthshire</a></td>
+    <td>4,302</td>
+    <td>3,486</td>
+    <td>97,500</td>
+    <td>44,035</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000878">Peterborough</a></td>
+    <td>4,751</td>
+    <td>2,647</td>
+    <td>115,444</td>
+    <td>45,857</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000879">Plymouth, Moor View</a></td>
+    <td>2,427</td>
+    <td>2,035</td>
+    <td>91,532</td>
+    <td>38,618</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000880">Plymouth, Sutton and Devonport</a></td>
+    <td>3,734</td>
+    <td>2,707</td>
+    <td>110,214</td>
+    <td>47,882</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000075">Pontypridd</a></td>
+    <td>2,769</td>
+    <td>1,827</td>
+    <td>80,505</td>
+    <td>33,257</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000881">Poole</a></td>
+    <td>3,346</td>
+    <td>2,377</td>
+    <td>95,238</td>
+    <td>42,207</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000882">Poplar and Limehouse</a></td>
+    <td>4,646</td>
+    <td>2,822</td>
+    <td>128,764</td>
+    <td>52,670</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000883">Portsmouth North</a></td>
+    <td>2,617</td>
+    <td>2,025</td>
+    <td>97,509</td>
+    <td>39,642</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000884">Portsmouth South</a></td>
+    <td>3,770</td>
+    <td>2,438</td>
+    <td>107,525</td>
+    <td>45,824</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000065">Preseli Pembrokeshire</a></td>
+    <td>3,592</td>
+    <td>3,136</td>
+    <td>76,582</td>
+    <td>33,170</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000885">Preston</a></td>
+    <td>4,093</td>
+    <td>2,234</td>
+    <td>94,716</td>
+    <td>39,075</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000886">Pudsey</a></td>
+    <td>3,399</td>
+    <td>2,564</td>
+    <td>89,082</td>
+    <td>38,580</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000887">Putney</a></td>
+    <td>2,683</td>
+    <td>1,863</td>
+    <td>93,546</td>
+    <td>39,436</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000888">Rayleigh and Wickford</a></td>
+    <td>3,089</td>
+    <td>2,273</td>
+    <td>97,452</td>
+    <td>39,611</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000889">Reading East</a></td>
+    <td>5,358</td>
+    <td>2,537</td>
+    <td>108,673</td>
+    <td>42,849</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000890">Reading West</a></td>
+    <td>5,615</td>
+    <td>2,624</td>
+    <td>101,503</td>
+    <td>41,421</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000891">Redcar</a></td>
+    <td>3,277</td>
+    <td>2,537</td>
+    <td>86,898</td>
+    <td>38,286</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000892">Redditch</a></td>
+    <td>2,681</td>
+    <td>1,903</td>
+    <td>89,705</td>
+    <td>37,035</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000893">Reigate</a></td>
+    <td>4,636</td>
+    <td>2,975</td>
+    <td>100,920</td>
+    <td>40,386</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000052">Rhondda</a></td>
+    <td>1,906</td>
+    <td>1,573</td>
+    <td>69,560</td>
+    <td>30,408</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000894">Ribble Valley</a></td>
+    <td>3,852</td>
+    <td>2,840</td>
+    <td>96,942</td>
+    <td>40,835</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000895">Richmond (Yorks)</a></td>
+    <td>5,936</td>
+    <td>5,014</td>
+    <td>107,335</td>
+    <td>44,061</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000896">Richmond Park</a></td>
+    <td>4,433</td>
+    <td>2,768</td>
+    <td>116,721</td>
+    <td>48,817</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000897">Rochdale</a></td>
+    <td>4,177</td>
+    <td>2,916</td>
+    <td>107,632</td>
+    <td>42,573</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000898">Rochester and Strood</a></td>
+    <td>4,107</td>
+    <td>2,795</td>
+    <td>105,198</td>
+    <td>42,541</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000899">Rochford and Southend East</a></td>
+    <td>3,833</td>
+    <td>2,297</td>
+    <td>100,078</td>
+    <td>42,885</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000900">Romford</a></td>
+    <td>3,286</td>
+    <td>1,972</td>
+    <td>95,803</td>
+    <td>39,327</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000901">Romsey and Southampton North</a></td>
+    <td>4,817</td>
+    <td>2,517</td>
+    <td>88,293</td>
+    <td>34,762</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000055">Ross, Skye and Lochaber</a></td>
+    <td>3,091</td>
+    <td>2,484</td>
+    <td>67,767</td>
+    <td>29,360</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000902">Rossendale and Darwen</a></td>
+    <td>4,110</td>
+    <td>3,196</td>
+    <td>96,444</td>
+    <td>41,273</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000903">Rother Valley</a></td>
+    <td>3,541</td>
+    <td>2,178</td>
+    <td>94,719</td>
+    <td>39,769</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000904">Rotherham</a></td>
+    <td>3,009</td>
+    <td>2,171</td>
+    <td>89,434</td>
+    <td>37,226</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000905">Rugby</a></td>
+    <td>3,054</td>
+    <td>2,462</td>
+    <td>96,495</td>
+    <td>40,608</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000906">Ruislip, Northwood and Pinner</a></td>
+    <td>3,720</td>
+    <td>2,488</td>
+    <td>93,747</td>
+    <td>37,575</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000907">Runnymede and Weybridge</a></td>
+    <td>5,279</td>
+    <td>3,204</td>
+    <td>102,243</td>
+    <td>41,913</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000908">Rushcliffe</a></td>
+    <td>2,519</td>
+    <td>2,266</td>
+    <td>94,958</td>
+    <td>39,329</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000056">Rutherglen and Hamilton West</a></td>
+    <td>3,106</td>
+    <td>2,549</td>
+    <td>102,840</td>
+    <td>46,292</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000909">Rutland and Melton</a></td>
+    <td>3,851</td>
+    <td>3,110</td>
+    <td>101,003</td>
+    <td>41,909</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000910">Saffron Walden</a></td>
+    <td>4,638</td>
+    <td>3,604</td>
+    <td>101,986</td>
+    <td>40,495</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000911">Salford and Eccles</a></td>
+    <td>6,020</td>
+    <td>3,187</td>
+    <td>108,337</td>
+    <td>49,850</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000912">Salisbury</a></td>
+    <td>4,415</td>
+    <td>3,291</td>
+    <td>91,425</td>
+    <td>38,650</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000913">Scarborough and Whitby</a></td>
+    <td>3,931</td>
+    <td>3,097</td>
+    <td>97,392</td>
+    <td>43,998</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000914">Scunthorpe</a></td>
+    <td>2,773</td>
+    <td>2,208</td>
+    <td>89,080</td>
+    <td>37,178</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000915">Sedgefield</a></td>
+    <td>3,216</td>
+    <td>2,620</td>
+    <td>84,058</td>
+    <td>36,642</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000916">Sefton Central</a></td>
+    <td>2,743</td>
+    <td>2,129</td>
+    <td>84,879</td>
+    <td>35,455</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000917">Selby and Ainsty</a></td>
+    <td>4,988</td>
+    <td>3,292</td>
+    <td>96,100</td>
+    <td>39,528</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000918">Sevenoaks</a></td>
+    <td>4,127</td>
+    <td>2,912</td>
+    <td>93,474</td>
+    <td>38,154</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000919">Sheffield Central</a></td>
+    <td>5,041</td>
+    <td>2,734</td>
+    <td>115,588</td>
+    <td>45,116</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000920">Sheffield South East</a></td>
+    <td>3,696</td>
+    <td>2,201</td>
+    <td>92,939</td>
+    <td>39,092</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000921">Sheffield, Brightside and Hillsborough</a></td>
+    <td>2,423</td>
+    <td>1,944</td>
+    <td>107,146</td>
+    <td>43,504</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000922">Sheffield, Hallam</a></td>
+    <td>2,822</td>
+    <td>1,888</td>
+    <td>89,249</td>
+    <td>36,427</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000923">Sheffield, Heeley</a></td>
+    <td>2,528</td>
+    <td>1,791</td>
+    <td>93,014</td>
+    <td>42,072</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000924">Sherwood</a></td>
+    <td>2,662</td>
+    <td>2,403</td>
+    <td>94,314</td>
+    <td>40,181</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000925">Shipley</a></td>
+    <td>3,809</td>
+    <td>2,970</td>
+    <td>94,772</td>
+    <td>41,287</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000926">Shrewsbury and Atcham</a></td>
+    <td>4,920</td>
+    <td>3,916</td>
+    <td>102,314</td>
+    <td>43,619</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000927">Sittingbourne and Sheppey</a></td>
+    <td>3,736</td>
+    <td>2,889</td>
+    <td>108,139</td>
+    <td>43,840</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000928">Skipton and Ripon</a></td>
+    <td>5,681</td>
+    <td>4,684</td>
+    <td>99,350</td>
+    <td>42,814</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000929">Sleaford and North Hykeham</a></td>
+    <td>3,940</td>
+    <td>3,505</td>
+    <td>111,190</td>
+    <td>47,570</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000930">Slough</a></td>
+    <td>4,531</td>
+    <td>2,717</td>
+    <td>133,969</td>
+    <td>48,208</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000931">Solihull</a></td>
+    <td>3,191</td>
+    <td>2,165</td>
+    <td>98,807</td>
+    <td>40,992</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000932">Somerton and Frome</a></td>
+    <td>5,214</td>
+    <td>4,345</td>
+    <td>103,165</td>
+    <td>43,928</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000933">South Basildon and East Thurrock</a></td>
+    <td>2,759</td>
+    <td>2,192</td>
+    <td>96,805</td>
+    <td>39,463</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000934">South Cambridgeshire</a></td>
+    <td>5,450</td>
+    <td>2,874</td>
+    <td>109,760</td>
+    <td>44,059</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000935">South Derbyshire</a></td>
+    <td>3,594</td>
+    <td>2,309</td>
+    <td>94,628</td>
+    <td>38,994</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000936">South Dorset</a></td>
+    <td>3,554</td>
+    <td>2,798</td>
+    <td>91,953</td>
+    <td>40,198</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000937">South East Cambridgeshire</a></td>
+    <td>4,929</td>
+    <td>2,729</td>
+    <td>114,897</td>
+    <td>46,977</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000938">South East Cornwall</a></td>
+    <td>4,243</td>
+    <td>3,547</td>
+    <td>88,053</td>
+    <td>38,777</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000939">South Holland and The Deepings</a></td>
+    <td>3,546</td>
+    <td>2,846</td>
+    <td>101,541</td>
+    <td>42,911</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000940">South Leicestershire</a></td>
+    <td>4,367</td>
+    <td>2,659</td>
+    <td>100,589</td>
+    <td>41,160</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000941">South Norfolk</a></td>
+    <td>4,539</td>
+    <td>3,682</td>
+    <td>98,202</td>
+    <td>41,901</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000942">South Northamptonshire</a></td>
+    <td>3,978</td>
+    <td>2,969</td>
+    <td>108,528</td>
+    <td>43,811</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000943">South Ribble</a></td>
+    <td>3,690</td>
+    <td>2,238</td>
+    <td>97,456</td>
+    <td>40,389</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000944">South Shields</a></td>
+    <td>2,491</td>
+    <td>1,921</td>
+    <td>82,246</td>
+    <td>37,879</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000945">South Staffordshire</a></td>
+    <td>2,882</td>
+    <td>2,494</td>
+    <td>93,662</td>
+    <td>38,475</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000946">South Suffolk</a></td>
+    <td>4,570</td>
+    <td>3,467</td>
+    <td>91,685</td>
+    <td>39,310</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000947">South Swindon</a></td>
+    <td>5,223</td>
+    <td>2,814</td>
+    <td>101,827</td>
+    <td>43,146</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000948">South Thanet</a></td>
+    <td>4,135</td>
+    <td>2,977</td>
+    <td>96,588</td>
+    <td>42,541</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000949">South West Bedfordshire</a></td>
+    <td>4,097</td>
+    <td>2,145</td>
+    <td>102,051</td>
+    <td>42,272</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000950">South West Devon</a></td>
+    <td>4,256</td>
+    <td>2,920</td>
+    <td>88,774</td>
+    <td>37,180</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000951">South West Hertfordshire</a></td>
+    <td>5,603</td>
+    <td>3,283</td>
+    <td>105,321</td>
+    <td>42,508</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000952">South West Norfolk</a></td>
+    <td>3,877</td>
+    <td>3,327</td>
+    <td>103,501</td>
+    <td>42,896</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000953">South West Surrey</a></td>
+    <td>5,219</td>
+    <td>3,626</td>
+    <td>103,011</td>
+    <td>41,710</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000954">South West Wiltshire</a></td>
+    <td>4,274</td>
+    <td>3,463</td>
+    <td>97,675</td>
+    <td>41,609</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000955">Southampton, Itchen</a></td>
+    <td>6,391</td>
+    <td>2,626</td>
+    <td>102,728</td>
+    <td>44,121</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000956">Southampton, Test</a></td>
+    <td>6,469</td>
+    <td>2,611</td>
+    <td>105,977</td>
+    <td>43,994</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000957">Southend West</a></td>
+    <td>2,608</td>
+    <td>1,806</td>
+    <td>89,015</td>
+    <td>38,117</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000958">Southport</a></td>
+    <td>3,065</td>
+    <td>2,023</td>
+    <td>90,372</td>
+    <td>39,873</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000959">Spelthorne</a></td>
+    <td>3,695</td>
+    <td>2,505</td>
+    <td>95,596</td>
+    <td>39,512</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000960">St Albans</a></td>
+    <td>4,624</td>
+    <td>3,016</td>
+    <td>97,657</td>
+    <td>39,378</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000961">St Austell and Newquay</a></td>
+    <td>4,050</td>
+    <td>3,340</td>
+    <td>99,063</td>
+    <td>41,913</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000962">St Helens North</a></td>
+    <td>2,974</td>
+    <td>2,452</td>
+    <td>96,330</td>
+    <td>41,417</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000963">St Helens South and Whiston</a></td>
+    <td>3,860</td>
+    <td>2,827</td>
+    <td>100,693</td>
+    <td>43,416</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000964">St Ives</a></td>
+    <td>4,903</td>
+    <td>3,947</td>
+    <td>85,029</td>
+    <td>37,720</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000965">Stafford</a></td>
+    <td>3,415</td>
+    <td>2,629</td>
+    <td>95,165</td>
+    <td>40,279</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000966">Staffordshire Moorlands</a></td>
+    <td>2,859</td>
+    <td>2,463</td>
+    <td>77,508</td>
+    <td>33,468</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000967">Stalybridge and Hyde</a></td>
+    <td>3,123</td>
+    <td>2,439</td>
+    <td>91,709</td>
+    <td>39,562</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000968">Stevenage</a></td>
+    <td>3,304</td>
+    <td>2,233</td>
+    <td>94,302</td>
+    <td>39,268</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000057">Stirling</a></td>
+    <td>3,672</td>
+    <td>2,902</td>
+    <td>90,073</td>
+    <td>37,492</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000969">Stockport</a></td>
+    <td>3,626</td>
+    <td>2,131</td>
+    <td>85,169</td>
+    <td>37,907</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000970">Stockton North</a></td>
+    <td>4,081</td>
+    <td>2,786</td>
+    <td>92,380</td>
+    <td>38,640</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000971">Stockton South</a></td>
+    <td>2,929</td>
+    <td>2,523</td>
+    <td>99,261</td>
+    <td>40,530</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000972">Stoke-on-Trent Central</a></td>
+    <td>3,661</td>
+    <td>2,464</td>
+    <td>83,058</td>
+    <td>36,484</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000973">Stoke-on-Trent North</a></td>
+    <td>3,023</td>
+    <td>2,288</td>
+    <td>96,668</td>
+    <td>41,424</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000974">Stoke-on-Trent South</a></td>
+    <td>2,701</td>
+    <td>2,206</td>
+    <td>89,580</td>
+    <td>38,312</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000975">Stone</a></td>
+    <td>3,061</td>
+    <td>2,670</td>
+    <td>84,302</td>
+    <td>35,849</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000976">Stourbridge</a></td>
+    <td>2,779</td>
+    <td>2,024</td>
+    <td>89,962</td>
+    <td>37,453</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000977">Stratford-on-Avon</a></td>
+    <td>4,372</td>
+    <td>3,371</td>
+    <td>88,470</td>
+    <td>38,605</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000978">Streatham</a></td>
+    <td>3,642</td>
+    <td>2,141</td>
+    <td>115,101</td>
+    <td>47,814</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000979">Stretford and Urmston</a></td>
+    <td>4,915</td>
+    <td>2,705</td>
+    <td>98,929</td>
+    <td>41,037</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000980">Stroud</a></td>
+    <td>4,528</td>
+    <td>3,606</td>
+    <td>99,792</td>
+    <td>42,362</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000981">Suffolk Coastal</a></td>
+    <td>5,774</td>
+    <td>4,498</td>
+    <td>98,930</td>
+    <td>44,172</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000982">Sunderland Central</a></td>
+    <td>4,040</td>
+    <td>2,762</td>
+    <td>99,528</td>
+    <td>43,698</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000983">Surrey Heath</a></td>
+    <td>4,611</td>
+    <td>2,811</td>
+    <td>105,652</td>
+    <td>41,866</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000984">Sutton and Cheam</a></td>
+    <td>3,141</td>
+    <td>2,016</td>
+    <td>94,925</td>
+    <td>39,792</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000985">Sutton Coldfield</a></td>
+    <td>3,738</td>
+    <td>2,265</td>
+    <td>94,923</td>
+    <td>39,833</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000048">Swansea East</a></td>
+    <td>2,720</td>
+    <td>1,870</td>
+    <td>80,626</td>
+    <td>34,939</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000047">Swansea West</a></td>
+    <td>2,567</td>
+    <td>1,909</td>
+    <td>80,564</td>
+    <td>35,002</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000986">Tamworth</a></td>
+    <td>2,765</td>
+    <td>2,090</td>
+    <td>95,498</td>
+    <td>38,823</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000987">Tatton</a></td>
+    <td>4,476</td>
+    <td>3,190</td>
+    <td>84,368</td>
+    <td>36,473</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000988">Taunton Deane</a></td>
+    <td>4,724</td>
+    <td>3,612</td>
+    <td>110,188</td>
+    <td>46,910</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000989">Telford</a></td>
+    <td>4,306</td>
+    <td>3,247</td>
+    <td>90,462</td>
+    <td>36,462</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000990">Tewkesbury</a></td>
+    <td>4,135</td>
+    <td>3,172</td>
+    <td>98,144</td>
+    <td>42,144</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000991">The Cotswolds</a></td>
+    <td>4,865</td>
+    <td>3,976</td>
+    <td>95,842</td>
+    <td>41,658</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000992">The Wrekin</a></td>
+    <td>3,636</td>
+    <td>2,739</td>
+    <td>90,817</td>
+    <td>36,173</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000993">Thirsk and Malton</a></td>
+    <td>6,895</td>
+    <td>4,185</td>
+    <td>96,903</td>
+    <td>42,216</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000994">Thornbury and Yate</a></td>
+    <td>5,013</td>
+    <td>2,551</td>
+    <td>82,944</td>
+    <td>33,377</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000995">Thurrock</a></td>
+    <td>3,524</td>
+    <td>2,210</td>
+    <td>116,320</td>
+    <td>45,921</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000996">Tiverton and Honiton</a></td>
+    <td>6,047</td>
+    <td>4,413</td>
+    <td>97,817</td>
+    <td>42,796</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000997">Tonbridge and Malling</a></td>
+    <td>4,706</td>
+    <td>3,437</td>
+    <td>98,967</td>
+    <td>39,420</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000998">Tooting</a></td>
+    <td>2,952</td>
+    <td>1,682</td>
+    <td>106,843</td>
+    <td>43,052</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14000999">Torbay</a></td>
+    <td>3,961</td>
+    <td>2,739</td>
+    <td>97,175</td>
+    <td>43,925</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000053">Torfaen</a></td>
+    <td>3,575</td>
+    <td>2,237</td>
+    <td>81,086</td>
+    <td>34,059</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001000">Torridge and West Devon</a></td>
+    <td>4,833</td>
+    <td>4,126</td>
+    <td>97,131</td>
+    <td>42,103</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001001">Totnes</a></td>
+    <td>4,431</td>
+    <td>3,615</td>
+    <td>82,795</td>
+    <td>37,586</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001002">Tottenham</a></td>
+    <td>3,487</td>
+    <td>2,038</td>
+    <td>129,355</td>
+    <td>48,927</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001003">Truro and Falmouth</a></td>
+    <td>4,575</td>
+    <td>3,627</td>
+    <td>89,223</td>
+    <td>39,254</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001004">Tunbridge Wells</a></td>
+    <td>4,709</td>
+    <td>3,312</td>
+    <td>105,086</td>
+    <td>43,422</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001005">Twickenham</a></td>
+    <td>4,409</td>
+    <td>2,508</td>
+    <td>112,189</td>
+    <td>47,093</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001006">Tynemouth</a></td>
+    <td>3,569</td>
+    <td>2,546</td>
+    <td>98,611</td>
+    <td>44,052</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001007">Uxbridge and South Ruislip</a></td>
+    <td>3,851</td>
+    <td>2,218</td>
+    <td>100,979</td>
+    <td>37,188</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000060">Vale of Clwyd</a></td>
+    <td>2,964</td>
+    <td>2,307</td>
+    <td>71,086</td>
+    <td>30,821</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000078">Vale of Glamorgan</a></td>
+    <td>4,785</td>
+    <td>2,300</td>
+    <td>97,801</td>
+    <td>41,000</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001008">Vauxhall</a></td>
+    <td>4,557</td>
+    <td>2,659</td>
+    <td>114,096</td>
+    <td>50,711</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001009">Wakefield</a></td>
+    <td>4,064</td>
+    <td>2,901</td>
+    <td>95,229</td>
+    <td>41,091</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001010">Wallasey</a></td>
+    <td>5,305</td>
+    <td>2,221</td>
+    <td>89,282</td>
+    <td>39,348</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001011">Walsall North</a></td>
+    <td>2,258</td>
+    <td>1,915</td>
+    <td>93,898</td>
+    <td>38,188</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001012">Walsall South</a></td>
+    <td>3,161</td>
+    <td>2,000</td>
+    <td>98,623</td>
+    <td>37,464</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001013">Walthamstow</a></td>
+    <td>2,770</td>
+    <td>1,616</td>
+    <td>111,246</td>
+    <td>41,566</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001014">Wansbeck</a></td>
+    <td>3,338</td>
+    <td>2,576</td>
+    <td>81,898</td>
+    <td>36,366</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001015">Wantage</a></td>
+    <td>4,950</td>
+    <td>3,733</td>
+    <td>106,600</td>
+    <td>43,114</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001016">Warley</a></td>
+    <td>2,603</td>
+    <td>1,890</td>
+    <td>92,056</td>
+    <td>35,304</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001017">Warrington North</a></td>
+    <td>3,169</td>
+    <td>2,354</td>
+    <td>95,208</td>
+    <td>40,391</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001018">Warrington South</a></td>
+    <td>4,908</td>
+    <td>3,024</td>
+    <td>107,033</td>
+    <td>44,754</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001019">Warwick and Leamington</a></td>
+    <td>4,284</td>
+    <td>2,778</td>
+    <td>97,129</td>
+    <td>41,735</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001020">Washington and Sunderland West</a></td>
+    <td>2,628</td>
+    <td>2,116</td>
+    <td>89,132</td>
+    <td>37,928</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001021">Watford</a></td>
+    <td>7,473</td>
+    <td>2,930</td>
+    <td>114,037</td>
+    <td>46,319</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001022">Waveney</a></td>
+    <td>3,445</td>
+    <td>2,882</td>
+    <td>102,456</td>
+    <td>44,804</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001023">Wealden</a></td>
+    <td>5,193</td>
+    <td>3,870</td>
+    <td>101,304</td>
+    <td>41,442</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001024">Weaver Vale</a></td>
+    <td>4,022</td>
+    <td>2,985</td>
+    <td>88,055</td>
+    <td>37,100</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001025">Wellingborough</a></td>
+    <td>4,039</td>
+    <td>2,459</td>
+    <td>106,161</td>
+    <td>44,805</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001026">Wells</a></td>
+    <td>4,918</td>
+    <td>3,949</td>
+    <td>103,387</td>
+    <td>44,078</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001027">Welwyn Hatfield</a></td>
+    <td>4,390</td>
+    <td>3,052</td>
+    <td>105,353</td>
+    <td>41,529</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001028">Wentworth and Dearne</a></td>
+    <td>3,314</td>
+    <td>2,568</td>
+    <td>95,466</td>
+    <td>40,904</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000058">West Aberdeenshire and Kincardine</a></td>
+    <td>6,331</td>
+    <td>3,279</td>
+    <td>91,197</td>
+    <td>36,965</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001029">West Bromwich East</a></td>
+    <td>2,607</td>
+    <td>1,932</td>
+    <td>87,998</td>
+    <td>34,810</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001030">West Bromwich West</a></td>
+    <td>3,015</td>
+    <td>2,135</td>
+    <td>89,950</td>
+    <td>35,594</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001031">West Dorset</a></td>
+    <td>5,047</td>
+    <td>4,164</td>
+    <td>95,525</td>
+    <td>42,787</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=S14000059">West Dunbartonshire</a></td>
+    <td>3,034</td>
+    <td>2,373</td>
+    <td>90,515</td>
+    <td>42,083</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001032">West Ham</a></td>
+    <td>3,940</td>
+    <td>2,371</td>
+    <td>158,093</td>
+    <td>55,456</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001033">West Lancashire</a></td>
+    <td>3,093</td>
+    <td>2,296</td>
+    <td>94,747</td>
+    <td>38,709</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001034">West Suffolk</a></td>
+    <td>4,228</td>
+    <td>3,345</td>
+    <td>113,382</td>
+    <td>46,477</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001035">West Worcestershire</a></td>
+    <td>4,082</td>
+    <td>3,210</td>
+    <td>91,667</td>
+    <td>39,753</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001036">Westminster North</a></td>
+    <td>3,858</td>
+    <td>2,222</td>
+    <td>116,716</td>
+    <td>53,446</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001037">Westmorland and Lonsdale</a></td>
+    <td>4,714</td>
+    <td>3,832</td>
+    <td>83,924</td>
+    <td>37,612</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001038">Weston-Super-Mare</a></td>
+    <td>4,855</td>
+    <td>3,124</td>
+    <td>104,304</td>
+    <td>46,196</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001039">Wigan</a></td>
+    <td>3,641</td>
+    <td>2,627</td>
+    <td>101,829</td>
+    <td>44,102</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001040">Wimbledon</a></td>
+    <td>3,439</td>
+    <td>2,125</td>
+    <td>96,419</td>
+    <td>39,771</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001041">Winchester</a></td>
+    <td>4,986</td>
+    <td>3,033</td>
+    <td>97,365</td>
+    <td>39,326</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001042">Windsor</a></td>
+    <td>5,307</td>
+    <td>3,348</td>
+    <td>102,377</td>
+    <td>41,578</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001043">Wirral South</a></td>
+    <td>5,036</td>
+    <td>2,129</td>
+    <td>72,180</td>
+    <td>30,992</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001044">Wirral West</a></td>
+    <td>4,435</td>
+    <td>1,887</td>
+    <td>69,430</td>
+    <td>30,188</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001045">Witham</a></td>
+    <td>3,674</td>
+    <td>2,690</td>
+    <td>88,422</td>
+    <td>36,752</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001046">Witney</a></td>
+    <td>7,842</td>
+    <td>3,880</td>
+    <td>104,776</td>
+    <td>43,240</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001047">Woking</a></td>
+    <td>4,579</td>
+    <td>2,805</td>
+    <td>105,901</td>
+    <td>41,897</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001048">Wokingham</a></td>
+    <td>5,918</td>
+    <td>2,917</td>
+    <td>101,086</td>
+    <td>39,729</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001049">Wolverhampton North East</a></td>
+    <td>3,171</td>
+    <td>1,898</td>
+    <td>88,355</td>
+    <td>36,558</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001050">Wolverhampton South East</a></td>
+    <td>2,601</td>
+    <td>1,974</td>
+    <td>88,567</td>
+    <td>35,545</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001051">Wolverhampton South West</a></td>
+    <td>3,092</td>
+    <td>2,107</td>
+    <td>85,381</td>
+    <td>35,439</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001052">Worcester</a></td>
+    <td>3,829</td>
+    <td>2,529</td>
+    <td>98,840</td>
+    <td>42,071</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001053">Workington</a></td>
+    <td>4,420</td>
+    <td>3,167</td>
+    <td>78,391</td>
+    <td>34,600</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001054">Worsley and Eccles South</a></td>
+    <td>4,374</td>
+    <td>2,438</td>
+    <td>98,725</td>
+    <td>42,919</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001055">Worthing West</a></td>
+    <td>4,896</td>
+    <td>3,246</td>
+    <td>94,734</td>
+    <td>44,234</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000044">Wrexham</a></td>
+    <td>2,793</td>
+    <td>2,089</td>
+    <td>70,738</td>
+    <td>29,873</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001056">Wycombe</a></td>
+    <td>4,372</td>
+    <td>2,764</td>
+    <td>108,122</td>
+    <td>41,585</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001057">Wyre and Preston North</a></td>
+    <td>3,386</td>
+    <td>2,444</td>
+    <td>88,418</td>
+    <td>37,606</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001058">Wyre Forest</a></td>
+    <td>4,183</td>
+    <td>3,246</td>
+    <td>97,977</td>
+    <td>42,992</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001059">Wythenshawe and Sale East</a></td>
+    <td>5,280</td>
+    <td>2,997</td>
+    <td>105,407</td>
+    <td>45,978</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001060">Yeovil</a></td>
+    <td>4,463</td>
+    <td>3,562</td>
+    <td>106,771</td>
+    <td>46,093</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=W07000041">Ynys M�n</a></td>
+    <td>3,187</td>
+    <td>2,840</td>
+    <td>69,751</td>
+    <td>30,594</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001061">York Central</a></td>
+    <td>6,668</td>
+    <td>2,720</td>
+    <td>104,342</td>
+    <td>45,271</td>
+</tr>
+<tr>
+    <td><a href="ElectoralConstituencies.php?constituency=E14001062">York Outer</a></td>
+    <td>5,850</td>
+    <td>2,639</td>
+    <td>93,725</td>
+    <td>38,289</td>
+</tr>
+
+                

@@ -1,0 +1,16 @@
+{
+  "name": "POLAR4-Importer",
+  "version": "1.0.0",
+  "description": "Converts the POLAR4 CSV (available here: https://www.officeforstudents.org.uk/data-and-analysis/polar-participation-of-local-areas/polar4-data/) into ArangoDB documents with the document _key property as the postcode for easy lookup",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tom@sliips.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "arangojs": "^6.2.3",
+    "fast-csv": "^2.4.1"
+  }
+}
